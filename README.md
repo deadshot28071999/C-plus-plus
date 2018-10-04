@@ -1,11 +1,12 @@
-<h1>C++</h1>
+<h1><b>C++</b></h1>
 
-<h3><i>C++ it is!</i><h3>
 <br>
 This repository was created on<b>:</b></i>11/09/18</i>.
 <hr>
 <h3>Contents<b>:</b></h3>
-<br><pre>1.Data Structures</pre>
-<br><pre>2.Algorithms</pre>
-<br><pre>3.Templates and STL</pre>
-
+<ul>
+  <li>Basic C++ Programs</li>
+  <li>Data Structures</li>
+  <li>Algorithms</li>
+  <li>templates and C++ STL</li>
+</ul>
